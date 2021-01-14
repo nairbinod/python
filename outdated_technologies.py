@@ -1,1 +1,1 @@
-local_tools = ['jetbrains', 'eclipse', 'sublime', 'emacs']
+local_tools = ['jetbrains', 'eclipse', 'sublime', 'emacs','cobol']
